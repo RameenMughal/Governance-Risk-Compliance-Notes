@@ -27,6 +27,8 @@
   - Command & Control (C2 or C&C) -> Establish communication with the system to maintain control and issue further commands.
   - Actions on Objectives -> What was the main purpose of exploiting the system.
 
+<img width="358" height="141" alt="image" src="https://github.com/user-attachments/assets/4bdcf485-52a8-4183-bba9-f6f483d7ef3b" />
+
 - LFI (Local File Inclusion) -> Web Application Vulnerability that lets an attacker trick the site into opening files from the server.
 - Post Exploitation Phase comes from Actions on Objectives in Cyber Kill Chain
 
