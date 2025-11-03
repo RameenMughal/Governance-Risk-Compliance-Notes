@@ -45,3 +45,10 @@
 - Governing body checks all the risk estimates including AI, mobile applications, websites etc.
 - Frameworks ensure that the Governing body is strong.
 
+### Task: Build Governance Structure
+
+**Scenario**: You’ve joined a small fintech startup that has no formal InfoSec governance structure. Your task is to propose a basic governance model, define:
+- Who is responsible for what (CISO, IT, Risk Team, etc.)
+- What key documents or processes should exist (policies, risk register, reporting, etc.)
+- How you’ll ensure accountability and compliance.
+
