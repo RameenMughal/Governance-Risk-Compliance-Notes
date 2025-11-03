@@ -30,6 +30,6 @@
 - Risk = Threat x Impact
 - Attack Vector -> Entry point or starting point on where the attack happened and how.
 
-### Task 1: Trace The Breach
+### Task: Trace The Breach
 
 Choose any case study from the year 2020, research about it and identify what CIA element was compromised, what was the Attack Vector and what security measures did the business make on response of the attack.
