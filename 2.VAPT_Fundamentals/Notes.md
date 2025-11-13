@@ -1,5 +1,6 @@
 # VAPT Fundamentals
 
+## Understanding VAPT
 - VAPT (Vulnerability Assessment and Penetration Testing)
   - Identifies and exploits weakness in systems, networks or applications.
   - Goal -> Find vulnerabilities before attackers do.
@@ -17,6 +18,8 @@
   - Scope Definition -> Define what to do.
   - Rules of Engagement (RoE) -> Written permission (don't to PT without permission as it will be considered illegal).
   - Testing Types -> Black, Grey or White Box.
+
+## Cyber Kill Chain
 
 - Cyber Kill Chain -> Core Concept of VAPT
   - Reconnaissance -> Information Gathering.
@@ -53,13 +56,15 @@
 - VAPT = confirms the risk is real and exploitable.
 - GRC = calculates how much that risk matters to the organization.
 
--------------------------------------------------------------------------------------------------------------
+## Common Vulnerabilities
 
 - CVE (Common Vulnerabilities Exposure) -> New ID for New Vulnerability
 - Common Vulnerabilities in Websites
   - SQL Injection
   - RCE (Remote Control Execution)
   - XSS (Cross Site Scripting)
+
+## Documentation in VAPT
 - Reporting and Documentation in VAPT
   - Vulnerability Description
   - Overview and Explanation how the vulnerability was exploited.
