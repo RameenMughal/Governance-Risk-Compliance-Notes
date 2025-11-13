@@ -1,5 +1,6 @@
 # Governance and Frameworks
 
+## Understanding Governance
 - What is Governance?
   - You set rules to achieve a specific goal.
   - What rules are set and how are you going to achieve that goal.
@@ -13,6 +14,7 @@
 - Management is about executing the tasks and tell the team to work on a specific tasks
 - Governance is about performance monitoring, it checks the status of the work and how business and people are operating and what can be the next steps to achive the goals.
 
+## Types of Governance
 - Corporate governance deals with business.
 - IT governance deals with Information Technology stuff.
 
@@ -22,6 +24,7 @@
 - IS Governance checks who should have access or not.
 - IT Governance checks about the system on how to deploy and function it.
 
+## Roles in Governance
 - Information Security Steering Committee (ISSC)
   - It is the core governing body
   - It ensures alignment between business, technology and compliance
@@ -45,7 +48,7 @@
 - Governing body checks all the risk estimates including AI, mobile applications, websites etc.
 - Frameworks ensure that the Governing body is strong.
 
-### Task: Build Governance Structure
+## Task: Build Governance Structure
 
 **Scenario**: You’ve joined a small fintech startup that has no formal InfoSec governance structure. Your task is to propose a basic governance model, define:
 - Who is responsible for what (CISO, IT, Risk Team, etc.)
