@@ -19,17 +19,19 @@
 - Why GRC developed? -> There was no coordination between teams in the business to know the updates about each teams.
 - Through GRC, there will be coordination and collaboration through GRC.
 
+## CIA Triad
  - CIA Triad - Confidentiality, Integrity and Availability.
     - Confidentiality -> Protect the information and give right access to the right person (can be checked through Encryption).
     - Integrity -> Consistent and right data (can be checked through hashing).
     - Availability -> How much is the response (can be checked by preventing from DDoS Attack).
 
+## Vulnerability, Threat and Risk
 - Vulnerability - Weekness of a system or human that the attacker can exploit.
 - Threat - Possibility that the attacker can do this attack.
 - Risk - Analyze what can be the impact if the vulnerability is exploited by the attacker
 - Risk = Threat x Impact
 - Attack Vector -> Entry point or starting point on where the attack happened and how.
 
-### Task: Trace The Breach
+## Task: Trace The Breach
 
 Choose any case study from the year 2020, research about it and identify what CIA element was compromised, what was the Attack Vector and what security measures did the business make on response of the attack.
