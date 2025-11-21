@@ -134,6 +134,23 @@
 
 - After treatment, continuous monitoring is necessary to check if the risk exists or not.
 
+## Risk Register
+
+A Risk Register is a structured document used to identify, assess, and track risks within a project, organization, or system. It serves as a central place where all potential risks are recorded along with important details such as:
+1. The description of each risk
+2. The asset or process affected
+3. The threat and vulnerability involved
+4. Likelihood and impact ratings
+5. The overall risk level
+6. Existing controls
+7. Recommended mitigation actions
+8. Responsible person and status
+- Likelihood refers to how probable it is that a risk event will occur.
+- Impact refers to how severe the consequences would be if the risk actually happens.
+- Inherent Risk is the level of risk that exists before any controls or protections are applied.
+- Control Effectiveness refers to how well existing security controls reduce or manage a risk.
+- Residual Risk is the risk that remains even after controls are applied.
+
 ## Task: Risk Analysis
 
 You are a risk analyst for a small e-commerce startup. The company stores customer data, uses a cloud server for operations, and has 8 employees working in hybrid mode.
