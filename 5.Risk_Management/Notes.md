@@ -133,3 +133,15 @@
 4. **Transference**: Involves shifting the potential impact of a risk to a third party like insurance.
 
 - After treatment, continuous monitoring is necessary to check if the risk exists or not.
+
+## Task: Risk Analysis
+
+You are a risk analyst for a small e-commerce startup. The company stores customer data, uses a cloud server for operations, and has 8 employees working in hybrid mode.
+
+
+You must:
+1. Identify critical assets (systems, people, data, applications)
+2. Identify threats & vulnerabilities
+3. Create a risk register
+4. Propose controls
+5. Rate risks (High/Med/Low)
