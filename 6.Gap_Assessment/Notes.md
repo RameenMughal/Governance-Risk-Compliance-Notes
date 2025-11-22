@@ -32,3 +32,60 @@
 2. Assess your business processes and practices to determine how well they align with the required controls.
 3. Create a plan to close the gaps.
 
+## Conducting Gap Assessment
+
+- **Regulatory**: Anything related to laws, rules, or official requirements that an organization must follow.
+- If the company names these regulations, that means they need to follow these regulations.
+- It does not mean that they are already compliant to these regulations, they are expected to follow these.
+- **Retention Policy** - Set of guidelines for how long an organization keeps data and what happens to it afterward, based on operational and regulatory needs.
+- **CDN (Content Delivery Network)**
+  - Network of servers around the world that deliver your website’s content faster and more securely to users.
+  - Instead of every user connecting directly to your main server, they connect to the nearest CDN server.
+- **Third-party Sellers** - External sellers who are not part of the company but use the company’s platform to sell their products.
+
+### GDPR (General Data Protection Regulation) – EU Customers
+
+- **What it is**: A strict data protection law in the European Union.
+- **Purpose**: Protects the privacy and personal data of EU citizens.
+- **What it requires**:
+  - Get clear consent before collecting personal data
+  - Allow users to access, update, or delete their data
+  - Notify authorities within 72 hours after a data breach
+  - Implement strong security controls
+- **Why it matters**: If your business serves EU customers, you must follow GDPR or face heavy fines.
+
+### ISO 27001 – Information Security Management Standard
+
+- **What it is**: An international standard for creating and maintaining an Information Security Management System (ISMS).
+- **Purpose**: Ensures organizations handle information securely by following best practices.
+- **Key areas it covers**:
+  - Risk management
+  - Access control
+  - Incident management
+  - Business continuity
+  - Asset management
+- **Why it matters**: Companies use ISO 27001 to prove they have a structured, effective security program.
+
+### SOC 2 (Service Organization Control 2) – For Vendors / Service Providers
+
+- **What it is**: An independent audit/report that evaluates a vendor's controls.
+- **Focus Areas (Trust Services Criteria)**:
+  - Security
+  - Availability
+  - Processing Integrity
+  - Confidentiality
+  - Privacy
+- **Why it matters**:
+  - If you use a third-party cloud provider or SaaS vendor, SOC 2 proves they follow good security practices.
+  - Many companies require SOC 2 reports before onboarding a vendor.
+
+### Local Consumer Data Laws
+
+- **What it is**: Data protection laws specific to each country or region (outside EU).
+- **Examples**:
+  - Pakistan: Personal Data Protection Bill (in progress)
+  - USA: CCPA (California), HIPAA (health data), etc.
+  - UAE: Data Protection Law 2021
+- **Purpose**: Protect local consumers’ personal data and regulate how businesses collect and use it.
+- **Why it matters**: Your company must follow the laws of any country where your customers are located.
+
