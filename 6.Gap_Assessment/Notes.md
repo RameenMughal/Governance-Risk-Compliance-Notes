@@ -89,3 +89,35 @@
 - **Purpose**: Protect local consumers’ personal data and regulate how businesses collect and use it.
 - **Why it matters**: Your company must follow the laws of any country where your customers are located.
 
+## Task: Gap Asessment
+
+- **Company**: MegaMart.pk
+- **Industry**: E-commerce + Retail Logistics
+- **Regulatory**: GDPR (EU customers), ISO 27001, SOC 2 (vendors), Local consumer data laws
+- **Current State**
+  - Data lake holds customer data for 6 years i.e no retention policy.
+  - Warehouse handheld scanners run Android 7 (no patches).
+  - Website uses Cloudflare, but origin servers are unpatched Ubuntu 18.04.
+  - Bot protection disabled to reduce CDN costs.
+  - 3rd-party sellers upload product files (no file scanning).
+  - Customer support accesses full card numbers, because truncation wasn’t implemented.
+  - Marketing team uses public Trello boards for campaign planning & customer data.
+  - Vendor delivering SMS OTPs is not under any security agreement.
+  - Load balancer logs stored but never reviewed.
+  - Backups stored on the same AWS account (no separation of duties).
+- **What you must do**: Compare this with industry best practices for e-commerce, such as:
+  - OWASP Top 10
+  - ISO 27001
+  - CIS Controls v8
+  - GDPR Articles (esp. retention & access control)
+  - NIST SP 800-53 (if needed)
+- **Identify**:
+  - Gaps
+  - How best practices/industry guidance define the expected state
+  - Impact on customer trust, risk, compliance
+  - Recommended remediation steps
+- **Submission**: For this scenario:
+1. Gap Assessment Table
+2. Short Evidence Request List
+   - For the current state, think what evidence you require to verify the state e.g. password policy, firewall configuration, DR test etc)
+
