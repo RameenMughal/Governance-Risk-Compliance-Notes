@@ -39,7 +39,9 @@
 - It can take time to detect the incident (e.g. The ransomware was in the computer for long time but detected it now).
 - Note down the detection tools while detection and analysis.
 
-#### 3. Containment Eradication and Recovery
+#### 3. Containment, Eradication and Recovery
+
+- **Containment**: 
 
 ## Disaster Recovery Plan
 
