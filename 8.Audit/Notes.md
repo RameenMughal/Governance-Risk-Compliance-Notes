@@ -7,6 +7,7 @@
 - State Bank of Pakistan says that both Internal and External Audit should be done
   - Internally like monthly or twice a year.
   - Externally like once a year.
+- If one statement in the policy says "Password should be strong", this is general policy and has ambiguity. Then ask the company what standards they follow (e.g. NIST)
 
 ## Types of Audit
 
@@ -53,6 +54,7 @@
 ### 3. Assess Technical Controls
 
 - **Definition**: Evaluate whether the technical security mechanisms (access controls, firewalls, encryption, authentication systems) are implemented correctly and working effectively.
+- Best practice is to first read the policies and then test the controls.
 - **Purpose**:
   - Ensure systems are protected from unauthorized access or attacks
   - Identify gaps, misconfigurations, or vulnerabilities
@@ -70,3 +72,39 @@
 - **Outcome**:
   - Recommendations for improving controls
   - Evidence for audit reporting
+ 
+### 5. Compile and Analyze Findings
+
+- **Definition**: Collect all the observations, test results, and evidence from the audit and analyze them to identify gaps, weaknesses, and compliance issues.
+- **Purpose**:
+  - Summarize the audit results clearly
+  - Highlight areas of non-compliance or risk
+  - Provide actionable recommendations for improvement
+  - Support decision-making by management and executives
+- **Importance in GRC**:
+  - The final report is submitted to top management
+  - Drives policy changes, security improvements, and compliance actions
+  - Forms the basis for future risk assessments and audits
+
+### 6. Create a Comprehensive Report
+
+- **Purpose**: Document audit scope, findings, and recommendations.
+- **Contents**: Key findings, risks, charts/graphs, and action plans.
+- **Outcome**: Gives management a clear overview for decisions.
+
+### 7. Present Findings to Stakeholders
+
+- **Purpose**: Share audit results clearly to support decision-making.
+- **How**:
+  - Use charts and graphs (bar, pie, trend) to show risks and gaps
+  - Summarize key findings and recommended actions
+- **Outcome**: Stakeholders quickly understand risks and decide on improvement
+
+### 8. Plan for Follow-Up
+
+- **Purpose**: Ensure that audit recommendations are implemented and improvements are made.
+- **How**:
+  - Track corrective actions for each finding
+  - Set deadlines and assign responsible teams
+  - Schedule follow-up reviews or audits to verify compliance
+- **Outcome**: Risks are mitigated, and controls are strengthened
