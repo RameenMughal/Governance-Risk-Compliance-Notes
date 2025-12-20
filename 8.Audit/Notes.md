@@ -35,6 +35,10 @@
 
 ## Step by Step Guide For Conducting a Security Audit
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb388ddc-d5ae-4388-a90a-12276e6c14e8" alt="65aa3e0d939a3be0dda03727_9DrM-p2dcMiTEjuRUn3DPT3yLz1M3Pf6XVvYQb6AllCRzoTTv36yHTTMOt2IFY7c9vf9yIpzHSpZUkr32KDP0Hey2G8EDPjTvv1b_iX9H8bk4I8UKAevFmP02CchvVfnz4lmcWk8-6ejICnTO2NQR0o" width="1383" height="770">
+</p>
+
 ### 1. Scope of the Audit
 
 - **Define the audit scope**: Decide what systems, processes, or departments will be reviewed.
